@@ -3,7 +3,7 @@ RGPV Student Portal
 A console-based Student Management System built with Java and SQLite.
 This project demonstrates core concepts of JDBC (Java Database Connectivity), SQL, and CRUD operations.
 
-🚀 Features
+Features
 
 Persistent Storage: Uses SQLite to store student records permanently.
 
@@ -19,7 +19,7 @@ Delete: Remove student records from the database.
 
 Console Interface: Interactive menu-driven CLI.
 
-🛠 Technologies Used
+Technologies Used
 
 Language: Java
 
@@ -27,11 +27,11 @@ Database: SQLite
 
 Connectivity: JDBC (Java Database Connectivity)
 
-⚙️ How to Run Locally
+How to Run Locally
 
 Clone the repository
 
-git clone [https://github.com/YOUR_USERNAME/RGPV-Student-Portal.git](https://github.com/YOUR_USERNAME/RGPV-Student-Portal.git)
+git clone [https://github.com/YOUR_USERNAME/RGPV-Student-Portal.git](https://github.com/Karma-tic/RGPV-Student-Portal.git)
 cd RGPV-Student-Portal
 
 
@@ -50,7 +50,7 @@ java -cp ".:sqlite-jdbc.jar" StudentPortal
 java -cp ".;sqlite-jdbc.jar" StudentPortal
 
 
-📸 Usage
+Usage
 
 The application provides a menu to manage student data:
 
