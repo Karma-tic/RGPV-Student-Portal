@@ -2,7 +2,6 @@ import java.sql.*;
 import java.util.Scanner;
 
 public class StudentPortal {
-    // Changed database name to be generic
     private static final String URL = "jdbc:sqlite:rgpv_data.db";
 
     public static void main(String[] args) {
@@ -13,7 +12,6 @@ public class StudentPortal {
             
             Scanner scanner = new Scanner(System.in);
             while (true) {
-                // Changed title to look like a college project
                 System.out.println("\n--- RGPV STUDENT PORTAL ---");
                 System.out.println("1. Add Student");
                 System.out.println("2. View All Students");
