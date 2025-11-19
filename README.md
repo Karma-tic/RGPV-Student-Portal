@@ -31,7 +31,7 @@ How to Run Locally
 
 Clone the repository
 
-git clone [https://github.com/YOUR_USERNAME/RGPV-Student-Portal.git](https://github.com/Karma-tic/RGPV-Student-Portal.git)
+git clone [CLICK ME](https://github.com/Karma-tic/RGPV-Student-Portal.git)
 cd RGPV-Student-Portal
 
 
